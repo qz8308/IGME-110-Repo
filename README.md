@@ -12,6 +12,6 @@
   1. First item
   2. Second item
   3. Third item
- 
 
-     [RIT](https://www.rit.edu/)
+(https://www.rit.edu/)
+[RIT](https://www.rit.edu/)
