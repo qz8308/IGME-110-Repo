@@ -17,4 +17,4 @@
 
 [RIT](https://www.rit.edu/)
 
-![RIT TIGER](<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/91cbd3b6-c4ff-43ca-9a1d-4f44b01c03fa" />)
+![Duck](<img width="640" height="380" alt="image" src="https://github.com/user-attachments/assets/3daf8151-9195-4c87-8f28-23539a7c8079" />)
