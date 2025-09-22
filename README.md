@@ -14,4 +14,7 @@
   3. Third item
 
 (https://www.rit.edu/)
+
 [RIT](https://www.rit.edu/)
+
+![RIT TIGER](<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/91cbd3b6-c4ff-43ca-9a1d-4f44b01c03fa" />)
